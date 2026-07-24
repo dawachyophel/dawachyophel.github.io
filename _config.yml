@@ -23,7 +23,7 @@ repository               : "dawachyophel/dawachyophel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Dawa Chyophel Lepcha"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher | Explainable AI for Neuroimaging | Alzheimer's Disease | Taipei Medical University"
