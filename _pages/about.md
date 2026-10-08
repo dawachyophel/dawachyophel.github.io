@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Dawa Chyophel Lepcha"
 excerpt: "Postdoctoral Researcher | Explainable AI for Neuroimaging | Alzheimer's Disease"
 author_profile: true
 redirect_from:
