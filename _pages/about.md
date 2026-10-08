@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "Hello, I'm Dawa Chyophel"
 excerpt: "Postdoctoral Researcher | Explainable AI for Neuroimaging | Alzheimer's Disease"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-## Hello, I'm Dawa Chyophel
 
 I am a **Postdoctoral Researcher at Taipei Medical University (TMU), Taiwan**, working at the intersection of **artificial intelligence and neuroscience**. My research develops **explainable deep learning methods for neuroimaging** to better understand, detect, and track **Alzheimer's disease**.
 
