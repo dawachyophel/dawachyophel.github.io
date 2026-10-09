@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-08-20-biomarker-fidelity-score
 excerpt: "A quantitative framework that measures how well explainability maps align with established Alzheimer's biomarker regions, benchmarked across five XAI methods and three 3D architectures. Preprint. Code: coming soon."
 date: 2026-08-20
-venue: "bioRxiv preprint"
+venue: "bioRxiv preprint (under review)"
 paperurl: "https://www.biorxiv.org/content/10.64898/2026.08.15.744687v1"
 citation: "Lepcha, D. C., Ali, A., Martin, S. A., Syed Abdul, S. (2026). Biomarker Fidelity Score: A Quantitative Framework for Individual-Level Validation of Explainability Methods in 3D Alzheimer's Disease MRI Classification. bioRxiv. doi:10.64898/2026.08.15.744687."
 ---

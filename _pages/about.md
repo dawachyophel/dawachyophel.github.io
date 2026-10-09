@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Dawa Chyophel"
+title: "Hello, I'm Dawa Chyophel Lepcha"
 excerpt: "Postdoctoral Researcher | Explainable AI for Neuroimaging | Alzheimer's Disease"
 author_profile: true
 redirect_from:
@@ -18,12 +18,13 @@ I believe that a model is only clinically useful if clinicians can understand *w
 - **Alzheimer's disease biomarkers** from structural MRI (e.g., hippocampal changes)
 - **State-space models and Mamba-based architectures** for 3D brain imaging
 - **Deep learning for neuroimaging:** segmentation, classification, and prediction
+- **Foundation model adaptation** for missing-modality robustness in Alzheimer's disease staging
 
 ## Selected Publications
 
-1. **Lepcha, D. C.**, Ali, A., Martin, S. A., Koundal, D., Coupé, P., Syed Abdul, S. (2026). *Modality Contribution Score: A Per-Patient Framework for Quantifying the Relative Diagnostic Contribution of Structural MRI and Amyloid PET in Alzheimer's Disease.* **arXiv preprint arXiv:2608.24931** (under review). [[Paper]](https://arxiv.org/abs/2608.24931) [[DOI]](https://doi.org/10.48550/arXiv.2608.24931) · *Code: coming soon*
+1. **Lepcha, D. C.**, Ali, A., Martin, S. A., Koundal, D., Coupé, P., Syed Abdul, S. (2026). *Modality Contribution Score: A Per-Patient Framework for Quantifying the Relative Diagnostic Contribution of Structural MRI and Amyloid PET in Alzheimer's Disease.* **arXiv preprint arXiv:2608.24931**. *Under review.* [[Paper]](https://arxiv.org/abs/2608.24931) [[DOI]](https://doi.org/10.48550/arXiv.2608.24931) · *Code: coming soon*
 
-2. **Lepcha, D. C.**, Ali, A., Martin, S. A., Syed Abdul, S. (2026). *Biomarker Fidelity Score: A Quantitative Framework for Individual-Level Validation of Explainability Methods in 3D Alzheimer's Disease MRI Classification.* **bioRxiv preprint**. [[Paper]](https://www.biorxiv.org/content/10.64898/2026.08.15.744687v1) [[DOI]](https://doi.org/10.64898/2026.08.15.744687) · *Code: coming soon*
+2. **Lepcha, D. C.**, Ali, A., Martin, S. A., Syed Abdul, S. (2026). *Biomarker Fidelity Score: A Quantitative Framework for Individual-Level Validation of Explainability Methods in 3D Alzheimer's Disease MRI Classification.* **bioRxiv preprint**. *Under review.* [[Paper]](https://www.biorxiv.org/content/10.64898/2026.08.15.744687v1) [[DOI]](https://doi.org/10.64898/2026.08.15.744687) · *Code: coming soon*
 
 3. **Lepcha, D. C.**, Ali, A., Goyal, B., Syed Abdul, S., Gaur, L., Alon, I., Zhang, J. Z. (2026). *Agentic Artificial Intelligence for Information Fusion: Architectures, Coordination, and Decision Intelligence.* **Journal of Organizational and End User Computing (JOEUC)**, 38(1), 1–33. [[Paper]](https://www.igi-global.com/article/agentic-artificial-intelligence-for-information-fusion/418738)
 
@@ -37,4 +38,4 @@ For my complete publication record, see my [Google Scholar profile](https://scho
 
 ## Collaboration
 
-I am always happy to discuss collaborations in explainable AI, neuroimaging, and clinical machine learning. Feel free to reach out via email or connect on the links in the sidebar.
+I am always happy to discuss collaborations in explainable AI, neuroimaging, and clinical machine learning. I am particularly interested in connecting with groups working on multimodal neuroimaging, XAI validation, and clinical AI deployment. Feel free to reach out via email or connect on the links in the sidebar.
