@@ -39,8 +39,9 @@
 ;
 
 /* Bold text in violet (main content only) */
+/* Formerly-bold text: Russian violet, normal weight */
 .page__content strong,
 .page__content b {
-  color: #8b5cf6;
-  font-weight: 700;
+  color: #32174d;
+  font-weight: 400;
 }
