@@ -7,58 +7,37 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Current Positions
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Postdoctoral Research Fellow**, Graduate Institute of Biomedical Informatics, Taipei Medical University, Taiwan (Mar 2026 – present)
+- **Research Associate** (part-time, remote), Biomedical Sensors and Systems Lab, University of Memphis, USA (Jul 2025 – present)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **PhD, Electronics and Communication Engineering**, Chandigarh University, India (2024)
+- **MEng, Electronics and Communication Engineering**, Chandigarh University, India (2021)
+- **MSc, Electronics and Information Technology**, University of South Wales, UK (2012)
+- **BTech, Electronics and Telecommunication Engineering**, University of Mumbai, India (2009)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Previous Positions
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Assistant Professor, Symbiosis Artificial Intelligence Institute, Pune, India (2025 – 2026)
+- Assistant Professor, Chandigarh University, India (2024 – 2025)
+- Assistant Professor, KNS Institute of Technology, Bengaluru, India (2023 – 2024)
+
+## Funding
+
+- SmartCHANGE, Horizon Europe (Grant No. 101080965)
+- National Science and Technology Council (NSTC), Taiwan (113-2923-E-038-002-MY3)
+
+## Service
+
+- **Peer review:** Information Fusion, IEEE Transactions on Multimedia, Engineering Applications of Artificial Intelligence, Scientific Reports, PLoS ONE, Measurement, Digital Health, Discover Computing, Frontiers in Nuclear Medicine, Discover Applied Sciences
+- **Editorial:** Guest Editor (Associate Editor), Frontiers in Marine Science
+- **Supervision:** co-supervising PhD and postgraduate students at Taipei Medical University
+
+## Languages
+
+English (full professional proficiency), Hindi (native), Sikkimese and Nepali (native)
+
+See my [Publications](/publications/) page or [Google Scholar](https://scholar.google.com/citations?user=V_jqXJkAAAAJ) for my full research output.
