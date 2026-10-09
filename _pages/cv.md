@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<style>
+#page-title, .page__title { display: none; }
+</style>
+
 ## Current Positions
 
 - **Postdoctoral Research Fellow**, Graduate Institute of Biomedical Informatics, Taipei Medical University, Taiwan (Mar 2026 – present)
