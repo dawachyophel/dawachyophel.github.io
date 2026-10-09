@@ -28,11 +28,13 @@ I believe that a model is only clinically useful if clinicians can understand *w
 
 3. **Lepcha, D. C.**, Ali, A., Goyal, B., Syed Abdul, S., Gaur, L., Alon, I., Zhang, J. Z. (2026). *Agentic Artificial Intelligence for Information Fusion: Architectures, Coordination, and Decision Intelligence.* **Journal of Organizational and End User Computing (JOEUC)**, 38(1), 1–33. [[Paper]](https://www.igi-global.com/article/agentic-artificial-intelligence-for-information-fusion/418738)
 
-4. **Lepcha, D. C.**, Goyal, B., Dogra, A., Alkhayyat, A., Sahu, P. K., Ali, A., Kukreja, V., et al. (2025). *Deep Learning in Medical Image Analysis: A Comprehensive Review of Algorithms, Trends, Applications, and Challenges.* **Computer Modeling in Engineering & Sciences (CMES)**, 145(2), 1487–1573. [[Paper]](https://doi.org/10.32604/cmes.2025.070964)
+4. **Lepcha, D. C.**, Syed Abdul, S., Ali, A., Vashisht, D. (Eds.). *Deep Learning for Medical Imaging: Foundations, Clinical Applications, and Future Horizons in Radiology and Digital Pathology.* **Bentham Science Publishers**, Singapore. *Conditionally accepted.*
 
-5. **Lepcha, D. C.**, Goyal, B., Dogra, A., Sharma, K. P., Gupta, D. N., et al. (2023). *A Deep Journey into Image Enhancement: A Survey of Current and Emerging Trends.* **Information Fusion**, 93, 36–76. [[Paper]](https://doi.org/10.1016/j.inffus.2022.12.012)
+5. **Lepcha, D. C.**, Goyal, B., Dogra, A., Alkhayyat, A., Sahu, P. K., Ali, A., Kukreja, V., et al. (2025). *Deep Learning in Medical Image Analysis: A Comprehensive Review of Algorithms, Trends, Applications, and Challenges.* **Computer Modeling in Engineering & Sciences (CMES)**, 145(2), 1487–1573. [[Paper]](https://doi.org/10.32604/cmes.2025.070964)
 
-6. **Lepcha, D. C.**, Goyal, B., Dogra, A., Goyal, V., et al. (2023). *Image Super-Resolution: A Comprehensive Review, Recent Trends, Challenges and Applications.* **Information Fusion**, 91, 230–260. [[Paper]](https://doi.org/10.1016/j.inffus.2022.10.007)
+6. **Lepcha, D. C.**, Goyal, B., Dogra, A., Sharma, K. P., Gupta, D. N., et al. (2023). *A Deep Journey into Image Enhancement: A Survey of Current and Emerging Trends.* **Information Fusion**, 93, 36–76. [[Paper]](https://doi.org/10.1016/j.inffus.2022.12.012)
+
+7. **Lepcha, D. C.**, Goyal, B., Dogra, A., Goyal, V., et al. (2023). *Image Super-Resolution: A Comprehensive Review, Recent Trends, Challenges and Applications.* **Information Fusion**, 91, 230–260. [[Paper]](https://doi.org/10.1016/j.inffus.2022.10.007)
 
 For my complete publication record, see my [Google Scholar profile](https://scholar.google.com/citations?user=V_jqXJkAAAAJ).
 
