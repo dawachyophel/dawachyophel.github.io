@@ -37,3 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Bold text in violet (main content only) */
+.page__content strong,
+.page__content b {
+  color: #8b5cf6;
+  font-weight: 700;
+}
