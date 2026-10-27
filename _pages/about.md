@@ -22,7 +22,7 @@ I believe that a model is only clinically useful if clinicians can understand *w
 
 ## Selected Publications
 
-1. Dhar, E., **Lepcha, D. C.**, Ali, A., Mallik, S., Gaur, L., Syed Abdul, S. (2026). *SalFuseFormer: A Saliency-Guided Fusion Transformer Framework for Clinically Motivated Multi-Modal Medical Image Fusion.* **Biomedical Signal Processing and Control**. *Accepted, in press.* [[Code]](https://github.com/dawachyophel/SalFuseFormer)
+1. Dhar, E., **Lepcha, D. C.**, Ali, A., Mallik, S., Gaur, L., Syed Abdul, S. (2027). *SalFuseFormer: A Saliency-Guided Fusion Transformer Framework for Clinically Motivated Multi-Modal Medical Image Fusion.* **Biomedical Signal Processing and Control**, 131, 111701. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809426022597) [[DOI]](https://doi.org/10.1016/j.bspc.2026.111701) [[Code]](https://github.com/dawachyophel/SalFuseFormer)
 
 2. **Lepcha, D. C.**, Ali, A., Martin, S. A., Koundal, D., Coupé, P., Syed Abdul, S. (2026). *Modality Contribution Score: A Per-Patient Framework for Quantifying the Relative Diagnostic Contribution of Structural MRI and Amyloid PET in Alzheimer's Disease.* **arXiv preprint arXiv:2608.24931**. *Under review.* [[Paper]](https://arxiv.org/abs/2608.24931) [[DOI]](https://doi.org/10.48550/arXiv.2608.24931) · *Code: coming soon*
 
