@@ -8,21 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+<div class="profile-home">
+
+<section class="section-card" id="bio">
+<h2>Bio</h2>
 <p class="intro-lead">I am a <strong>Postdoctoral Researcher at Taipei Medical University (TMU), Taiwan</strong>, working at the intersection of <strong>artificial intelligence and neuroscience</strong>. My research develops <strong>explainable deep learning methods for neuroimaging</strong> to better understand, detect, and track <strong>Alzheimer's disease</strong>.</p>
-
 <div class="intro-quote">A model is only clinically useful if clinicians can understand <em>why</em> it makes a prediction. That idea drives my work on interpretable, trustworthy AI for medical imaging.</div>
+</section>
 
-## News
-
+<section class="section-card" id="news">
+<h2>News</h2>
 <ul class="news">
 <li><span class="when">Nov 2026</span><span><strong>AdaptAD</strong> and <strong>HippoMamba</strong> preprints now on arXiv: <a href="https://arxiv.org/abs/2611.00084">arXiv:2611.00084</a> and <a href="https://arxiv.org/abs/2611.09958">arXiv:2611.09958</a>.</span></li>
 <li><span class="when">Oct 2026</span><span><strong>SalFuseFormer</strong> published in <em>Biomedical Signal Processing and Control</em>; code and fine-tuned weights released on <a href="https://github.com/dawachyophel/SalFuseFormer">GitHub</a> (Zenodo DOI <a href="https://doi.org/10.5281/zenodo.23831905">10.5281/zenodo.23831905</a>).</span></li>
 <li><span class="when">Oct 2026</span><span><strong>AdaptAD</strong> and <strong>HippoMamba</strong> submitted to arXiv.</span></li>
 <li><span class="when">Aug 2026</span><span>Preprints of <strong>Modality Contribution Score</strong> (arXiv) and <strong>Biomarker Fidelity Score</strong> (bioRxiv) released.</span></li>
 </ul>
+</section>
 
-## Research Interests
-
+<section class="section-card" id="research-interests">
+<h2>Research Interests</h2>
 <div class="interest-grid">
 <div class="interest-card"><i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i><span class="t">Explainable AI (XAI)</span><span class="d">Interpretable models for medical image analysis</span></div>
 <div class="interest-card"><i class="fas fa-brain" aria-hidden="true"></i><span class="t">Alzheimer's disease biomarkers</span><span class="d">From structural MRI, e.g. hippocampal changes</span></div>
@@ -30,9 +35,10 @@ redirect_from:
 <div class="interest-card"><i class="fas fa-layer-group" aria-hidden="true"></i><span class="t">Deep learning for neuroimaging</span><span class="d">Segmentation, classification and prediction</span></div>
 <div class="interest-card"><i class="fas fa-puzzle-piece" aria-hidden="true"></i><span class="t">Foundation model adaptation</span><span class="d">Missing-modality robustness in AD staging</span></div>
 </div>
+</section>
 
-## Selected Publications
-
+<section class="section-card" id="selected-publications">
+<h2>Selected Publications</h2>
 <ol class="pub-list">
 <li class="pub"><div class="pub-top"><span class="year">2026</span><span class="tag new">Preprint</span></div><span class="title">AdaptAD: Foundation Model Adaptation with Missing Modality Robustness for Alzheimer's Disease Staging Across the Disease Continuum</span><span class="authors"><strong>Lepcha, D. C.</strong>, Martin, S. A., Coupé, P., Syed-Abdul, S.</span><span class="venue"><em>arXiv preprint</em> arXiv:2611.00084, 2026</span><div class="links"><a href="https://arxiv.org/abs/2611.00084"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a><a href="https://arxiv.org/pdf/2611.00084"><i class="fas fa-file-pdf" aria-hidden="true"></i>PDF</a><a href="https://doi.org/10.48550/arXiv.2611.00084"><i class="fas fa-link" aria-hidden="true"></i>DOI</a></div></li>
 <li class="pub"><div class="pub-top"><span class="year">2026</span><span class="tag new">Preprint</span></div><span class="title">HippoMamba: A Mamba-augmented network for hippocampal segmentation and serial volumetry in Alzheimer's disease</span><span class="authors"><strong>Lepcha, D. C.</strong>, Martin, S. A., Coupé, P., Syed-Abdul, S.</span><span class="venue"><em>arXiv preprint</em> arXiv:2611.09958, 2026</span><div class="links"><a href="https://arxiv.org/abs/2611.09958"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a><a href="https://arxiv.org/pdf/2611.09958"><i class="fas fa-file-pdf" aria-hidden="true"></i>PDF</a><a href="https://doi.org/10.48550/arXiv.2611.09958"><i class="fas fa-link" aria-hidden="true"></i>DOI</a></div></li>
@@ -45,16 +51,20 @@ redirect_from:
 <li class="pub"><div class="pub-top"><span class="year">2026</span><span class="tag">Book chapter</span><span class="tag">In press</span></div><span class="title">Deepfake Detection in Real-Time Adversarial Environments: Architectures, Threat Models, and Deployment Strategies</span><span class="authors">Gaur, L., <strong>Lepcha, D. C.</strong>, Rodriguez, C., Ravindran, G.</span><span class="venue">In <em>DeepFakes 2.0</em> (2nd ed.), L. Gaur (Ed.), CRC Press</span><div class="links"><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003784876-7/deepfake-detection-real-time-adversarial-environments-loveleen-gaur-dawa-chyophel-lepcha-ciro-rodriguez-gobinath-ravindran"><i class="fas fa-file-lines" aria-hidden="true"></i>Chapter</a><a href="https://doi.org/10.1201/9781003784876-7"><i class="fas fa-link" aria-hidden="true"></i>DOI</a></div></li>
 <li class="pub"><div class="pub-top"><span class="tag">Edited book</span><span class="tag">Conditionally accepted</span></div><span class="title">Deep Learning for Medical Imaging: Foundations, Clinical Applications, and Future Horizons in Radiology and Digital Pathology</span><span class="authors"><strong>Lepcha, D. C.</strong>, Syed-Abdul, S., Ali, A., Vashisht, D. (Eds.)</span><span class="venue"><em>Bentham Science Publishers</em>, Singapore</span></li>
 </ol>
+</section>
 
-### Under review
-
+<section class="section-card" id="under-review">
+<h2>Under review</h2>
 <ol class="pub-list">
 <li class="pub"><div class="pub-top"><span class="tag">Under review</span><span class="tag">Revision in preparation</span></div><span class="title">Modality Contribution Score: per-patient attribution of structural MRI and amyloid PET in Alzheimer's disease</span><span class="venue"><em>arXiv:2608.24931</em></span><div class="links"><a href="https://arxiv.org/abs/2608.24931"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a><a href="https://doi.org/10.48550/arXiv.2608.24931"><i class="fas fa-link" aria-hidden="true"></i>DOI</a></div></li>
 <li class="pub"><div class="pub-top"><span class="tag">Under review</span><span class="tag">Revision in preparation</span></div><span class="title">Biomarker Fidelity Score: individual-level validation of explainability methods in 3D Alzheimer's disease MRI</span><span class="venue"><em>bioRxiv</em>, 2026</span><div class="links"><a href="https://www.biorxiv.org/content/10.64898/2026.08.15.744687v1"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a><a href="https://doi.org/10.64898/2026.08.15.744687"><i class="fas fa-link" aria-hidden="true"></i>DOI</a></div></li>
 </ol>
+<p class="more-link">For my complete publication record, see my <a href="https://scholar.google.com/citations?user=V_jqXJkAAAAJ">Google Scholar profile</a>.</p>
+</section>
 
-For my complete publication record, see my [Google Scholar profile](https://scholar.google.com/citations?user=V_jqXJkAAAAJ).
-
-## Collaboration
-
+<section class="section-card" id="collaboration">
+<h2>Collaboration</h2>
 <div class="callout">I am always happy to discuss collaborations in explainable AI, neuroimaging, and clinical machine learning. I am particularly interested in connecting with groups working on multimodal neuroimaging, XAI validation, and clinical AI deployment.<br><a class="btn-mail" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i>Get in touch</a></div>
+</section>
+
+</div>
