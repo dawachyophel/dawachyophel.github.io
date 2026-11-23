@@ -29,11 +29,11 @@ redirect_from:
 <section class="section-card" id="research-interests">
 <h2>Research Interests</h2>
 <div class="interest-grid">
-<div class="interest-card"><i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i><span class="t">Explainable AI (XAI)</span><span class="d">Interpretable models for medical image analysis</span></div>
-<div class="interest-card"><i class="fas fa-brain" aria-hidden="true"></i><span class="t">Alzheimer's disease biomarkers</span><span class="d">From structural MRI, e.g. hippocampal changes</span></div>
-<div class="interest-card"><i class="fas fa-wave-square" aria-hidden="true"></i><span class="t">State-space &amp; Mamba models</span><span class="d">Architectures for 3D brain imaging</span></div>
-<div class="interest-card"><i class="fas fa-layer-group" aria-hidden="true"></i><span class="t">Deep learning for neuroimaging</span><span class="d">Segmentation, classification and prediction</span></div>
-<div class="interest-card"><i class="fas fa-puzzle-piece" aria-hidden="true"></i><span class="t">Foundation model adaptation</span><span class="d">Missing-modality robustness in AD staging</span></div>
+<div class="interest-card"><span class="t">Explainable AI (XAI)</span><span class="d">Interpretable models for medical image analysis</span></div>
+<div class="interest-card"><span class="t">Alzheimer's disease biomarkers</span><span class="d">From structural MRI, e.g. hippocampal changes</span></div>
+<div class="interest-card"><span class="t">State-space &amp; Mamba models</span><span class="d">Architectures for 3D brain imaging</span></div>
+<div class="interest-card"><span class="t">Deep learning for neuroimaging</span><span class="d">Segmentation, classification and prediction</span></div>
+<div class="interest-card"><span class="t">Foundation model adaptation</span><span class="d">Missing-modality robustness in AD staging</span></div>
 </div>
 </section>
 

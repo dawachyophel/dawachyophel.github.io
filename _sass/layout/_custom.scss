@@ -231,28 +231,16 @@ body {
   color: var(--muted);
 }
 
-/* research interests: square-bullet list items laid out in a grid */
+/* research interests: title + description, laid out in a grid */
 .interest-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   gap: 0.6em 1.4em;
 }
 .interest-card {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  column-gap: 0.8em;
-  align-items: start;
-  padding: 0.3em 0;
-}
-.interest-card i { grid-row: 1 / span 2; }
-.interest-card .t { grid-column: 2; }
-.interest-card .d { grid-column: 2; }
-.interest-card i {
-  flex: 0 0 auto;
-  display: inline-flex; align-items: center; justify-content: center;
-  width: 2.1em; height: 2.1em; border-radius: 50%;
-  background: var(--icon-bg); color: var(--icon);
-  font-size: 0.95em;
+  display: block;
+  padding: 0.3em 0 0.3em 0.9em;
+  border-left: 3px solid var(--icon-bg);   /* thin teal-grey accent instead of an icon */
 }
 .interest-card .t { display: block; font-weight: 600; font-size: 0.95em; line-height: 1.35; color: var(--text); }
 .interest-card .d { display: block; font-size: 0.85em; color: var(--muted); line-height: 1.45; margin-top: 0.15em; }
