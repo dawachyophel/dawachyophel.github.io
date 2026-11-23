@@ -2,6 +2,12 @@
 
 <!-- start custom head snippets -->
 
+<!-- Open in light mode unless the visitor has chosen a theme with the sun/moon toggle -->
+<script>
+  try { if (!localStorage.getItem("theme")) { localStorage.setItem("theme", "light"); } } catch (e) {}
+</script>
+
+
 <!-- Web fonts: Inter -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
