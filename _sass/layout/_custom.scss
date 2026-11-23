@@ -205,6 +205,51 @@ body {
 .section-card > h2::after { display: none; }
 .section-card > :last-child { margin-bottom: 0; }
 
+/* ---------- animated research illustration (top of home page) ---------- */
+.hero-card {
+  background: var(--card-bg);
+  border-radius: 16px;
+  padding: 1em 1.4em 0.6em;
+  margin: 0 0 1.2em;
+}
+.hero-svg { display: block; width: 100%; height: auto; }
+.hero-svg .outline { fill: var(--icon-bg); fill-opacity: 0.45; stroke: var(--label); stroke-width: 2; }
+.hero-svg .stem    { fill: none; stroke: var(--label); stroke-width: 2; stroke-linecap: round; }
+.hero-svg .sulcus  { fill: none; stroke: var(--icon); stroke-width: 1.5; stroke-linecap: round; opacity: 0.75; }
+.hero-svg .edge    { stroke: var(--label); stroke-width: 1; opacity: 0.35; }
+.hero-svg .node    { fill: var(--label); transform-box: fill-box; transform-origin: center; animation: hero-pulse 3.2s ease-in-out infinite; }
+.hero-svg .n1 { animation-delay: .3s; } .hero-svg .n2 { animation-delay: .6s; } .hero-svg .n3 { animation-delay: .9s; }
+.hero-svg .n4 { animation-delay: 1.2s; } .hero-svg .n5 { animation-delay: 1.5s; } .hero-svg .n6 { animation-delay: 1.8s; }
+.hero-svg .n7 { animation-delay: 2.1s; } .hero-svg .n8 { animation-delay: 2.4s; }
+.hero-svg .glow    { animation: hero-glow 4s ease-in-out infinite; }
+.hero-svg .scan    { animation: hero-scan 5s linear infinite; }
+.hero-svg .flow    { fill: none; stroke: var(--label); stroke-width: 1.6; stroke-dasharray: 3 9; opacity: 0.7; animation: hero-flow 1.8s linear infinite; }
+.hero-svg .f1 { animation-delay: -.4s; } .hero-svg .f2 { stroke: #e0952f; opacity: 0.9; animation-delay: -.8s; }
+.hero-svg .f3 { animation-delay: -1.2s; } .hero-svg .f4 { animation-delay: -1.5s; }
+.hero-svg .link    { stroke: var(--icon); stroke-width: 0.8; opacity: 0.3; }
+.hero-svg .unit    { fill: var(--card-bg); stroke: var(--label); stroke-width: 1.8; animation: hero-unit 3s ease-in-out infinite; }
+.hero-svg .u1 { animation-delay: .2s; } .hero-svg .u2 { animation-delay: .4s; } .hero-svg .u3 { animation-delay: .6s; }
+.hero-svg .u4 { animation-delay: .8s; } .hero-svg .u5 { animation-delay: 1s; } .hero-svg .u6 { animation-delay: 1.2s; }
+.hero-svg .u7 { animation-delay: 1.4s; } .hero-svg .u8 { animation-delay: 1.6s; } .hero-svg .u9 { animation-delay: 1.8s; }
+.hero-svg .u10 { animation-delay: 2s; } .hero-svg .u11 { animation-delay: 2.2s; }
+.hero-svg .out      { fill: var(--label); }
+.hero-svg .out-ring { fill: none; stroke: var(--label); stroke-width: 1.5; transform-box: fill-box; transform-origin: center; animation: hero-ring 2.4s ease-out infinite; }
+.hero-svg .labels text { font-family: "Inter", $sans-serif; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; fill: var(--muted); }
+.hero-caption {
+  margin: 0.2em 0 0; text-align: right;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.78em; letter-spacing: 0.04em; color: var(--muted);
+}
+@keyframes hero-pulse { 0%, 100% { transform: scale(1); opacity: .85; } 50% { transform: scale(1.45); opacity: 1; } }
+@keyframes hero-glow  { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+@keyframes hero-scan  { 0% { transform: translateX(0); } 100% { transform: translateX(300px); } }
+@keyframes hero-flow  { to { stroke-dashoffset: -24; } }
+@keyframes hero-unit  { 0%, 100% { fill: var(--card-bg); } 45%, 55% { fill: var(--icon-bg); } }
+@keyframes hero-ring  { 0% { transform: scale(.7); opacity: .9; } 100% { transform: scale(1.5); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .hero-svg * { animation: none !important; }
+}
+
 /* bio */
 .intro-lead { margin-top: 0; }
 .intro-quote {
