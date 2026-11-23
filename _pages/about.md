@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hello, I'm Dawa Chyophel Lepcha"
+title: "Dawa Chyophel Lepcha - Personal Homepage"
+seo_title: "Dawa Chyophel Lepcha - Personal Homepage"
 excerpt: "Postdoctoral Researcher | Explainable AI for Neuroimaging | Alzheimer's Disease"
 author_profile: true
 redirect_from:
