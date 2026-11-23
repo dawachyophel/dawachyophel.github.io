@@ -73,7 +73,6 @@ redirect_from:
 <text class="hbar" x="858" y="258" text-anchor="middle">AD</text>
 <text class="hlabel" x="835" y="300" text-anchor="middle">stage</text>
 </svg>
-<p class="hero-caption">[ explainable AI × neuroimaging ]</p>
 </div>
 
 <section class="section-card" id="bio">

@@ -210,7 +210,7 @@ body {
 .hero-card {
   background: #ffffff;
   border-radius: 16px;
-  padding: 0.8em 0.8em 0.5em;
+  padding: 0.8em;
   margin: 0 0 1.2em;
 }
 .hero-svg { display: block; width: 100%; height: auto; }
@@ -243,11 +243,6 @@ body {
 .hero-svg .b1 { animation: hero-b1 5s ease-in-out infinite; }
 .hero-svg .b2 { animation: hero-b2 5s ease-in-out infinite; }
 .hero-svg .b3 { animation: hero-b3 5s ease-in-out infinite; }
-.hero-caption {
-  margin: 0.35em 0.4em 0; text-align: right;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-  font-size: 0.78em; letter-spacing: 0.04em; color: #5f7377;
-}
 @keyframes hero-heat  { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
 @keyframes hero-plane { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(150px); } }
 @keyframes hero-glow  { 0%, 100% { opacity: .5; } 50% { opacity: 1; } }
